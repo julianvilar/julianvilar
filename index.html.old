@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <!--titulo do site-->
+        <title>Meu primeiro site</title>
+    </head>
+    <body bgcolor="red" text="yellow">
+        <h1>Titulo</h1>
+        <h2>site <i>lindo</i> que fiz na <u>aula</u> de <s>zarak</s></h2><br>
+        <h1><font face="Impact" color="white" size="24">turma fdp</font></h1>
+        <font face="Comic Sans" size="56" color="white">1313 PELA SOBERANIA DO BRASIL</font><br>
+        <p align="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum autem quasi veritatis porro in dicta eaque iusto, magni quibusdam sequi quis laudantium deleniti inventore dolores, possimus praesentium asperiores sint a!</p>
+        <img src="https://i.pinimg.com/originals/26/3b/4c/263b4ca28a53f0845ab38229d0067f7b.jpg?nii=t" alt="fuck">
+        <img src="https://stinger-magazine.com/wp-content/uploads/2021/08/dante-dance.gif">
+    </body>
+</html>
